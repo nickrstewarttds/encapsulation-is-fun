@@ -2,3 +2,5 @@
 
 Hello my friends
 If you are seeing this, you've set up your fork correctly and fetched the changes.
+
+Let's see if the .gitignore works
