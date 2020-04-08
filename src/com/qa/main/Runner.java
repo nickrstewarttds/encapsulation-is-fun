@@ -13,7 +13,7 @@ public class Runner {
 		System.out.println(chicken.getEyes());
 		chicken.setEyes(54236);
 		System.out.println(chicken.getEyes());
-
+		System.out.println("i SEE DEAD PEOPLE");
 	}
 
 }
